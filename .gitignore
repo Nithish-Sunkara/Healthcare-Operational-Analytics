@@ -1,0 +1,12 @@
+# SQLite database files
+healthcare.db
+*.db
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary files
+~$*.xlsx
+.DS_Store
+Thumbs.db
